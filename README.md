@@ -1,2 +1,2 @@
 # Quiz
-Quiz game on python
+Simple quiz game on python. Also my first Python project.
